@@ -59,16 +59,28 @@ h1 {
  /* p1 font */
 p {
   display: block;
-  font-size: 2em;
+  font-size: 1.2em;
   color: azure;
   margin-top: 1em;
   margin-bottom: 1em;
   margin-left: 0;
   margin-right: 0;
-  font-family:serif;
+  font-family: Georgia, serif;
+  background-color: black;
 }
 /* responsiveness of image */
 .responsive {
   width: 100%;
   height: auto;
+}
+
+img {
+    padding: 10px;  
+}
+
+.about-text {
+    border:7px; 
+    border-style:solid; 
+    border-color:#AC801B; 
+    padding: 1em;
 }
