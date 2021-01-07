@@ -29,7 +29,7 @@ body, html {
 
 @media screen and (max-width: 600px)
 {
-  .hero-text 
+  .carousel-caption 
     {
     font-size: 10px;
     }
@@ -41,20 +41,21 @@ body, html {
 }
 .navbar 
 {
-    font-size: 2em;
+    font-size: 1.2em;
 }
 
 
-/* H1 font */
-h1 {
+/* H3 font */
+h3 {
   display: block;
-  font-size: 2.5em;
+  font-size: 2em;
   margin-top: 0.67em;
   margin-bottom: 0.67em;
   margin-left: 0;
   margin-right: 0;
   font-weight: 100;
   font-family: serif;
+  background-color: black;
 }
  /* p1 font */
 p {
@@ -80,6 +81,20 @@ img {
 
 .about-text {
     border:7px; 
+    border-style:solid; 
+    border-color:#AC801B; 
+    padding: 1em;
+}
+
+.mayfield-text {
+     border:7px; 
+    border-style:solid; 
+    border-color:#AC801B; 
+    padding: 1em;
+}
+
+.chadwell-text {
+     border:7px; 
     border-style:solid; 
     border-color:#AC801B; 
     padding: 1em;
