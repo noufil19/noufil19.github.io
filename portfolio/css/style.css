@@ -87,15 +87,15 @@ img {
 }
 
 .mayfield-text {
-     border:7px; 
-    border-style:solid; 
-    border-color:#AC801B; 
-    padding: 1em;
+    border-color:#8ae423 !important; 
 }
 
 .chadwell-text {
-     border:7px; 
-    border-style:solid; 
-    border-color:#AC801B; 
-    padding: 1em;
+    border-color:#ffd677 !important; 
+}
+
+.head1 {
+  border:2px;
+  border-style:solid;
+  border-color:#d63d0e;
 }
