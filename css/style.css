@@ -91,11 +91,45 @@ img {
 }
 
 .chadwell-text {
-    border-color:#ffd677 !important; 
+    border-color:#007cac !important; 
+}
+
+.goldsmiths-text {
+    border-color:#f8d030 !important; 
 }
 
 .head1 {
   border:2px;
   border-style:solid;
   border-color:#d63d0e;
+}
+/* social media icons */
+<style>
+.fa {
+  padding: 20px;
+  font-size: 70em;
+  color: ffc900;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
 }
